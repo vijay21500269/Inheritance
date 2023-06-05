@@ -78,7 +78,7 @@ namespace vehicles
 ~~~
 
 ## Output:
-![img]()
+![img](https://github.com/vijay21500269/Inheritance/blob/main/Exp8.png)
 
 ## Result
 C# program to print some messages using hierarchical inheritance is implemented successfully.
